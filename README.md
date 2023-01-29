@@ -1,11 +1,8 @@
-# Project 2: File System
+# File System
 
-This is the starter code for [Project 2](https://course.ccs.neu.edu/cs3650f22/p2.html). The following contents are provided:
-
-- [Makefile](Makefile)   - Targets are explained in the assignment text
+- [Makefile](Makefile)   - Make target files
 - [README.md](README.md) - This README
 - [helpers](helpers)     - Helper code implementing access to bitmaps and blocks
-- [hints](hints)         - Incomplete bits and pieces that you might want to use as inspiration
 - [nufs.c](nufs.c)       - The main file of the file system driver
 - [test.pl](test.pl)     - Tests to exercise the file system
 
