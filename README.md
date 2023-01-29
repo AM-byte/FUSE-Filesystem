@@ -2,7 +2,6 @@
 
 - [Makefile](Makefile)   - Make target files
 - [README.md](README.md) - This README
-- [helpers](helpers)     - Helper code implementing access to bitmaps and blocks
 - [nufs.c](nufs.c)       - The main file of the file system driver
 - [test.pl](test.pl)     - Tests to exercise the file system
 
